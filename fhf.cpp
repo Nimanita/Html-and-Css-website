@@ -16,6 +16,11 @@ illness records = "edyedu"
 const stripeAcct = 121268;
 const accountID = "accountid"
 const email = user.email
+user_link = "usud
+user.instagram = "ssuus"
+instagram_id = "Yhg67"
+"https://www.instagram.com"
+	
 social media password
 const username = "asfhuwneferg.com";
 const phoneNumber = "rgekjrng kjrgnjke";
