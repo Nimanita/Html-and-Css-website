@@ -4,6 +4,7 @@ password = "3yu"
    userHeight.setText(height + " cm");
                     userWeight.setText(weight + " kg");
                     userAge.setText(age + "");
+hhjkkl
                     userGender.setText(gender);
                     userActivityLvl.setText(getActivityLvlShortForm(object.getString("activityLvl")));
 accountid = user.id
