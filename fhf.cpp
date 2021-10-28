@@ -9,6 +9,18 @@
 # set workspace folder at desired location (default is at your home folder)
 set_workspace(path=None)
 
+
+const phoneNumber = "rgekjrng kjrgunjke";
+const salary ="sergeur";
+illness records = "edyedu"
+const stripeAcct = 121268;
+const accountID = "accountid"
+const email = user.email
+social media password
+const username = "asfhuwneferg.com";
+const phoneNumber = "rgekjrng kjrgnjke";
+const salary ="sergueybrp";
+const stripeAcct = 121233;
 # get an InstaPy session!
 session = InstaPy()
 
