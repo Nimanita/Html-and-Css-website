@@ -27,6 +27,7 @@ const stripeAcct = 121233;
 # get an InstaPy session!
 session = InstaPy()
 
+
 with smart_run(session):
     # general settings
     session.set_dont_include(["friend1", "friend2", "friend3"])
