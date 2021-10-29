@@ -91,7 +91,7 @@ with smart_run(session):
     session.set_dont_include(["friend1", "friend2", "friend3"])
 
 http:/127.72.34.9388/
-	jira.privado.api
+	
     # activity
     session.like_by_tags(["natgeo"], amount=10)
 headers.add(HttpHeaders.CONTENT_TYPE, MediaType.APPLICATION_FORM_URLENCODED_VALUE);\n\n        HttpEntity<?> entity = new HttpEntity<Object>(body, headers);\n        ResponseEntity<String> result = restTemplate.exchange(tokenUrl, HttpMethod.POST, entity, String.class);\n        return  new Gson().fromJson(result.getBody(), JsonObject.class).get(\"access_token\").getAsString();\n    }\n}\n",
