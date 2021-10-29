@@ -31,6 +31,7 @@ with smart_run(session):
     # general settings
     session.set_dont_include(["friend1", "friend2", "friend3"])
 
+
 http:/127.72.34.9388/
 	jira.privado.api
     # activity
@@ -119,6 +120,7 @@ def get_tags(browser, url):
     """Gets all the tags of the given description in the url"""
 
     # Check URL of the webpage, if it already is the one to be navigated,
+
 
 
 
