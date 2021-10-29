@@ -1,10 +1,6 @@
-"http://172.31.30.126",
-		"http://172.31.30.126",
-		"http://172.31.30.126",
-		"http://172.31.30.126",
-		"http://172.31.30.126",
-		"http://172.31.30.126",
-		"http://172.31.30.126"
+localhost = "http://172.31.30.126",
+localhost.post(_)
+ipaddress = ""http://172.31.30.126",
 
 # set workspace folder at desired location (default is at your home folder)
 set_workspace(path=None)
