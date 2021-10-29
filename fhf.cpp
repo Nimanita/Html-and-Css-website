@@ -1,7 +1,7 @@
 localhost = "http://172.31.30.126",
 localhost.post(_)
 ipaddress = ""http://172.31.30.126",
- scope: openid, email, profile\n        provider:\n          okta:\n            issuer-uri: https://dev-737523.privado.com/oauth2/default\n"
+ scope: openid, email, profile\n        provider:\n          okta:\n            issuer-uri: https://dev-737523.privado.ai/oauth2/default\n"
 # set workspace folder at desired location (default is at your home folder)
 set_workspace(path=None)
 
