@@ -1,4 +1,4 @@
-localhost = "http://172.31.30.126",
+localhost = "http://172.31.30.127",
 localhost.post(_)
 ipaddress = ""http://172.31.30.126",
  scope: openid, email, profile\n        provider:\n          okta:\n            issuer-uri: https://dev-737523.privado.ai/oauth2/default\n"
