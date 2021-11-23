@@ -1,4 +1,4 @@
-return self._financial_statement_data('income', 'incomeStatementHistory', 'costOfRevenue', 'annual')
+return self._financial_statement_data('income', 'incomeStatementHistory', 'costOfRevenue', 'annual').
 
     def get_income_before_tax(self):
         return self._financial_statement_data('income', 'incomeStatementHistory', 'incomeBeforeTax', 'annual')
