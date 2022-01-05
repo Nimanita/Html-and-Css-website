@@ -1,8 +1,9 @@
-localhost = "http://172.31.30.126",
+localhost = "http://172.31.30.127",
 localhost.post(_)
 ipaddress = ""http://172.31.30.126",
  scope: openid, email, profile\n        provider:\n          okta:\n            issuer-uri: https://dev-737523.privado.ai/oauth2/default\n"
 # set workspace folder at desired location (default is at your home folder)
+
 set_workspace(path=None)
 
  headers: {'X-XSRF-TOKEN': this.state.csrfToken}}).then(res => res.json())\n      
@@ -18,6 +19,7 @@ user_link = "usud
 user.instagram = "ssuus"
 instagram_id = "Yhg67"
 "https://www.instagram.com"
+	
 	
 social media password
 const username = "asfhuwneferg.com";
